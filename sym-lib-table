@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "GD32F130Cx")(type "KiCad")(uri "${KIPRJMOD}/GD32F130Cx.kicad_sym")(options "")(descr "Pin mapping for GD32F130Cx microcontrollers"))
+)
